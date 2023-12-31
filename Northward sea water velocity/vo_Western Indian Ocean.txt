@@ -1,0 +1,6 @@
+longitude latitude vo file
+49.25 -37.92 0.071936 point0_vo.nc
+49.25 -37.92 0.071936 point1_vo.nc
+51.50 -37.42 0.071494 point2_vo.nc
+51.75 -37.42 0.238108 point3_vo.nc
+51.67 -37.42 0.207967 point4_vo.nc

@@ -1,0 +1,6 @@
+longitude latitude VSDY file
+49.20 -38.00 0.006018 point0_VSDY.nc
+49.20 -38.00 0.006018 point1_VSDY.nc
+51.40 -37.40 0.013186 point2_VSDY.nc
+51.80 -37.40 0.015398 point3_VSDY.nc
+51.60 -37.40 0.013982 point4_VSDY.nc

@@ -1,0 +1,5 @@
+longitude latitude uo file
+134.67 16.83 0.124516 point0_uo.nc
+135.17 16.58 0.030519 point1_uo.nc
+134.25 13.25 -0.166021 point2_uo.nc
+129.00 20.00 0.346080 point3_uo.nc

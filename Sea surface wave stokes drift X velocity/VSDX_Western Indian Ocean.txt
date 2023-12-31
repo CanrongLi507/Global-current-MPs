@@ -1,0 +1,6 @@
+longitude latitude VSDX file
+49.20 -38.00 0.020973 point0_VSDX.nc
+49.20 -38.00 0.020973 point1_VSDX.nc
+51.40 -37.40 0.008053 point2_VSDX.nc
+51.80 -37.40 0.007611 point3_VSDX.nc
+51.60 -37.40 0.007699 point4_VSDX.nc

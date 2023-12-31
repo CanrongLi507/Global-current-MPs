@@ -1,0 +1,6 @@
+longitude latitude VMDR file
+49.20 -38.00 219.551239 point0_VMDR.nc
+49.20 -38.00 219.551239 point1_VMDR.nc
+51.40 -37.40 209.837522 point2_VMDR.nc
+51.80 -37.40 208.010442 point3_VMDR.nc
+51.60 -37.40 209.042035 point4_VMDR.nc

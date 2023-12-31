@@ -1,0 +1,5 @@
+longitude latitude VHM0 file
+134.60 16.80 2.465575 point0_VHM0.nc
+135.20 16.60 2.490619 point1_VHM0.nc
+134.20 13.20 2.334867 point2_VHM0.nc
+129.00 20.00 1.831327 point3_VHM0.nc
